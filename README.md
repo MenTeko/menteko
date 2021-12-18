@@ -11,15 +11,15 @@
 --- 
 
 # MenTeko
-- [🇫🇷 FR](https://github.com/Aysmow/Aysmow/blob/README.md/README.md)  
+- [🇫🇷 FR]()  
 
 - 🐍 > French Apprenti développeur
 - 🔭 > Travails actuellement sur mon bot multifonction 
 
 ## Contactez moi sur discord
-- Discord: `MenTeko#2706`
+- Discord : `MenTeko#2706`
 
-- [👋 Mon compte](https://discord.com/users/350670974573740033)
+- [👋 Mon compte](https://github.com/MenTeko)
 
 - [⚡ Mon serveur discord](https://discord.io/menteko)
 

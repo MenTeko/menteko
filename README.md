@@ -4,7 +4,7 @@
 
 <p align="center"><br>
   <a href="https://github.com/MenTeko">
-    <img src="https://discord.c99.nl/widget/theme-4/673992633785384980.png"/>
+    <img src="https://discord.c99.nl/widget/theme-4/350670974573740033.png"/>
      </a>
 </p>
 

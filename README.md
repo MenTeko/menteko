@@ -1,5 +1,5 @@
 <p align='center'>
-  <b>Hi 👋, I'm MenTeko</b><br>
+  <b>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm MenTeko</b><br>
 </p>
 
 <p align="center"><br>

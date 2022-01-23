@@ -11,7 +11,7 @@
 --- 
 
 # MenTeko
-- [🇫🇷 FR]()  
+- <img src="https://icon-library.com/images/france-icon/france-icon-15.jpg"/ width="45">  
 
 - 🐍 > French Apprenti développeur
 - 🔭 > Travails actuellement sur mon bot multifonction 
